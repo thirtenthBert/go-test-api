@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/thirtenthBert/go-test-api/internal/models"
+	"github.com/thirtenthBert/go-test-api.git/internal/models"
 )
 
 var people []models.Person
